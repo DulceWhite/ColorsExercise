@@ -32,6 +32,10 @@ p{
 #one{
     color: hotpink;
 }
+/* here is another way */
+/* li: :first-child {
+    color: hotpink
+} */
 
 #tres{
     background-color: peachpuff;
@@ -40,6 +44,8 @@ p{
     border: green;
     border-style: solid;
     border-width: 5px;
-    
-  
 }
+/* here is anohter way */
+/* .bird{
+    border: solid 5px solid
+ } */
